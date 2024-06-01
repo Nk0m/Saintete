@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sainteté à l'Éternel</title>
+    <link rel="icon" href="logop2.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav>
+            <div>
+                <ul>
+                    <li><a href="Notre histoire.html"> Qui sommes-nous?</a> </li>
+                    <li> <a href="Missions.html"> Notre mission</a></li>
+                    <li> <a href="Action.html"> Nos actions</a></li>
+                    <li><a href="Articles.html"> Nos articles</a></li>
+                </ul>
+            </div>
+        </nav>
+
+    </header>
+
+<section>
+    <div>
+
+
+
+
+
+        
+
+    <footer>
+        <ul class="social-networks">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)"> <i class="fab fa-facebook"></i></a>
+            </li>
+            <li>
+                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Visit our Youtube page (opens in a new tab)"> <i class="fab fa-youtube-square"></i></a>
+            </li>
+            
+            <li>
+                <a href="mailto:tsanctification@gmail.com">Mail> <i class="fa-solid fa-envelope"></i></a>
+            </li>
+            <li>
+                <a href="tel 00-243-89-380-1008 ">+243893801008 <i class="fa-sharp fa-solid fa-phone-volume"></i></a>
+                <a href="tel 00-243-810-326-877 ">+243810326877 <i class="fa-sharp fa-solid fa-phone-volume"></i></a>
+            </li>
+
+        </ul>
+    </footer>
+    <!--font awesome-->
+    <script src="https://kit.fontawesome.com/451247a11e.js" crossorigin="anonymous"></script>
+</body>   
+</body>
+</html>
